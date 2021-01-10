@@ -3,7 +3,7 @@ This is a group case study as part of understanding data science.
 
 as part of data mining we chose the CRISP-DM as datamining strategy.
 
-## CRISP-DM breaks the process of data mining into six major phases
+# CRISP-DM breaks the process of data mining into six major phases
 
 Business Understanding
 Data Understanding
@@ -12,6 +12,7 @@ Modeling
 Evaluation
 Deployment
 
-<img src="https://en.wikipedia.org/wiki/File:CRISP-DM_Process_Diagram.png">
+![alt text](https://en.wikipedia.org/wiki/File:CRISP-DM_Process_Diagram.png)
 
-## Business Understanding:
+
+# Business Understanding:
