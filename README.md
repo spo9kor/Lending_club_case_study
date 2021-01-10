@@ -12,6 +12,6 @@ Modeling
 Evaluation
 Deployment
 
-<img src="https://en.wikipedia.org/wiki/File:CRISP-DM_Process_Diagram.png" width="250">
+<img src="https://en.wikipedia.org/wiki/File:CRISP-DM_Process_Diagram.png">
 
 ## Business Understanding:
